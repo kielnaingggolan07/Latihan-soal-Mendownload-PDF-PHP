@@ -1,0 +1,6 @@
+pass : kieltugaspweb
+pass : kieltugaspweb10.
+
+database : calonsiswa
+calonsiswa1
+Password.1010
